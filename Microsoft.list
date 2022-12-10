@@ -100,9 +100,6 @@ DOMAIN-SUFFIX,bingtoolbar.com
 DOMAIN-SUFFIX,bingtranslator.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
-DOMAIN-SUFFIX,biying.cn
-DOMAIN-SUFFIX,biying.com
-DOMAIN-SUFFIX,biying.com.cn
 DOMAIN-SUFFIX,blazor.net
 DOMAIN-SUFFIX,bluehatil.com
 DOMAIN-SUFFIX,bluehatnights.com
@@ -115,9 +112,6 @@ DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,centralvalidation.com
 DOMAIN-SUFFIX,ch9.ms
 DOMAIN-SUFFIX,charticulator.com
-DOMAIN-SUFFIX,chinacloudapi.cn
-DOMAIN-SUFFIX,chinacloudapp.cn
-DOMAIN-SUFFIX,chinacloudsites.cn
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,codethemicrobit.com
@@ -171,7 +165,6 @@ DOMAIN-SUFFIX,groupme.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,here.com
 DOMAIN-SUFFIX,here.net
-DOMAIN-SUFFIX,heremaps.cn
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,hololens.com
 DOMAIN-SUFFIX,hotmail
@@ -195,13 +188,11 @@ DOMAIN-SUFFIX,internetexplorer.com
 DOMAIN-SUFFIX,intunewiki.com
 DOMAIN-SUFFIX,iotinactionevents.com
 DOMAIN-SUFFIX,joinms.com
-DOMAIN-SUFFIX,joinms.com.cn
 DOMAIN-SUFFIX,joinmva.com
 DOMAIN-SUFFIX,jwt.ms
 DOMAIN-SUFFIX,kidgrid.tv
 DOMAIN-SUFFIX,kumo.com
 DOMAIN-SUFFIX,latampartneruniversity.com
-DOMAIN-SUFFIX,live.cn
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.com.au
 DOMAIN-SUFFIX,live.eu
@@ -224,12 +215,9 @@ DOMAIN-SUFFIX,microbit.org
 DOMAIN-SUFFIX,microsoft
 DOMAIN-SUFFIX,microsoft-give.com
 DOMAIN-SUFFIX,microsoft-int.com
-DOMAIN-SUFFIX,microsoft-online.cn
-DOMAIN-SUFFIX,microsoft-online.com.cn
 DOMAIN-SUFFIX,microsoft-ppe.com
 DOMAIN-SUFFIX,microsoft-sap-events.com
 DOMAIN-SUFFIX,microsoft-sbs-domains.com
-DOMAIN-SUFFIX,microsoft-smb.cn
 DOMAIN-SUFFIX,microsoft-tst.com
 DOMAIN-SUFFIX,microsoft.az
 DOMAIN-SUFFIX,microsoft.be
@@ -299,7 +287,6 @@ DOMAIN-SUFFIX,microsoftlatamholiday.com
 DOMAIN-SUFFIX,microsoftlinc.com
 DOMAIN-SUFFIX,microsoftmxfilantropia.com
 DOMAIN-SUFFIX,microsoftnews.cc
-DOMAIN-SUFFIX,microsoftnews.cn
 DOMAIN-SUFFIX,microsoftnews.com
 DOMAIN-SUFFIX,microsoftnews.net
 DOMAIN-SUFFIX,microsoftnews.org
@@ -310,14 +297,11 @@ DOMAIN-SUFFIX,microsoftnewskids.com
 DOMAIN-SUFFIX,microsoftnewskids.net
 DOMAIN-SUFFIX,microsoftnewskids.org
 DOMAIN-SUFFIX,microsoftol.com
-DOMAIN-SUFFIX,microsoftol.com.cn
 DOMAIN-SUFFIX,microsoftonline-p.com
 DOMAIN-SUFFIX,microsoftonline-p.net
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,microsoftpartnercommunity.com
 DOMAIN-SUFFIX,microsoftpartnersolutions.com
-DOMAIN-SUFFIX,microsoftreactor.cn
-DOMAIN-SUFFIX,microsoftreactor.com.cn
 DOMAIN-SUFFIX,microsoftreactor.info
 DOMAIN-SUFFIX,microsoftreactor.net
 DOMAIN-SUFFIX,microsoftreactor.org
@@ -328,7 +312,6 @@ DOMAIN-SUFFIX,microsoftsilverlight.org
 DOMAIN-SUFFIX,microsoftsiteselection.com
 DOMAIN-SUFFIX,microsoftsqlserver.com
 DOMAIN-SUFFIX,microsoftstore.com
-DOMAIN-SUFFIX,microsoftstore.com.cn
 DOMAIN-SUFFIX,microsoftstore.com.hk
 DOMAIN-SUFFIX,microsoftstream.com
 DOMAIN-SUFFIX,microsoftteams.com
@@ -338,7 +321,6 @@ DOMAIN-SUFFIX,microsoftusercontent.com
 DOMAIN-SUFFIX,microsoftuwp.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftshop.com
-DOMAIN-SUFFIX,mmais.com.cn
 DOMAIN-SUFFIX,mmdnn.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,momentumms.com
@@ -350,7 +332,6 @@ DOMAIN-SUFFIX,ms365surfaceoffer.com
 DOMAIN-SUFFIX,msa.akadns6.net
 DOMAIN-SUFFIX,msads.net
 DOMAIN-SUFFIX,msappproxy.net
-DOMAIN-SUFFIX,msauth.cn
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msauthimages.net
 DOMAIN-SUFFIX,mschallenge2018.com
@@ -359,10 +340,8 @@ DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,msft.info
 DOMAIN-SUFFIX,msft.net
-DOMAIN-SUFFIX,msftauth.cn
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msftauthimages.net
-DOMAIN-SUFFIX,msftcenterone.cn
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msfteducation.ca
 DOMAIN-SUFFIX,msftidentity.com
@@ -372,11 +351,7 @@ DOMAIN-SUFFIX,msgamestudios.com
 DOMAIN-SUFFIX,msidentity.com
 DOMAIN-SUFFIX,msignitechina.com
 DOMAIN-SUFFIX,msinnovationchallenge.com
-DOMAIN-SUFFIX,msminico.cn
-DOMAIN-SUFFIX,msminico.com.cn
-DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,msn.com.cn
 DOMAIN-SUFFIX,msn.com.nsatc.net
 DOMAIN-SUFFIX,msn.com.tw
 DOMAIN-SUFFIX,msnewskids.com
@@ -386,10 +361,7 @@ DOMAIN-SUFFIX,msnkids.com
 DOMAIN-SUFFIX,msnmaps.com
 DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,msocsp.com
-DOMAIN-SUFFIX,msopentech.cn
 DOMAIN-SUFFIX,mspairlift.com
-DOMAIN-SUFFIX,mspil.cn
-DOMAIN-SUFFIX,msra.cn
 DOMAIN-SUFFIX,msropendata.com
 DOMAIN-SUFFIX,mstea.ms
 DOMAIN-SUFFIX,msturing.org
@@ -398,7 +370,6 @@ DOMAIN-SUFFIX,msunlimitedcloudsummit.com
 DOMAIN-SUFFIX,msvevent.com
 DOMAIN-SUFFIX,msxiaobing.com
 DOMAIN-SUFFIX,msxiaoice.com
-DOMAIN-SUFFIX,msxiaona.cn
 DOMAIN-SUFFIX,mwf-service.akamaized.net
 DOMAIN-SUFFIX,myhomemsn.com
 DOMAIN-SUFFIX,mymicrosoft.com
@@ -407,7 +378,6 @@ DOMAIN-SUFFIX,nuget.org
 DOMAIN-SUFFIX,nugettest.org
 DOMAIN-SUFFIX,nxta.org
 DOMAIN-SUFFIX,o365cn.com
-DOMAIN-SUFFIX,o365files.cn
 DOMAIN-SUFFIX,o365weve-dev.com
 DOMAIN-SUFFIX,o365weve-ppe.com
 DOMAIN-SUFFIX,o365weve.com
@@ -419,8 +389,6 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,office365love.com
 DOMAIN-SUFFIX,office365tw.com
 DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
-DOMAIN-SUFFIX,officedev.cn
-DOMAIN-SUFFIX,officeplus.cn
 DOMAIN-SUFFIX,officeppe.net
 DOMAIN-SUFFIX,omniroot.com
 DOMAIN-SUFFIX,onecollector.cloudapp.aria
@@ -439,15 +407,12 @@ DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,orithegame.com
 DOMAIN-SUFFIX,osdinfra.net
 DOMAIN-SUFFIX,outingsapp.com
-DOMAIN-SUFFIX,outlook.cn
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,outlookgroups.ms
 DOMAIN-SUFFIX,outlookmobile.com
-DOMAIN-SUFFIX,ovi.com.cn
 DOMAIN-SUFFIX,passport.net
 DOMAIN-SUFFIX,phonefactor.net
 DOMAIN-SUFFIX,pixapp.net
-DOMAIN-SUFFIX,playfabapi.cn
 DOMAIN-SUFFIX,playfabcn.com
 DOMAIN-SUFFIX,poshtestgallery.com
 DOMAIN-SUFFIX,powerappscdn.net
@@ -460,7 +425,6 @@ DOMAIN-SUFFIX,projectsangam.com
 DOMAIN-SUFFIX,public-trust.com
 DOMAIN-SUFFIX,pwabuilder.com
 DOMAIN-SUFFIX,pxt.io
-DOMAIN-SUFFIX,reactorms.com.cn
 DOMAIN-SUFFIX,renlifang.com
 DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
@@ -474,7 +438,6 @@ DOMAIN-SUFFIX,serverlesslibrary.net
 DOMAIN-SUFFIX,sfbassets.com
 DOMAIN-SUFFIX,sfbassets.net
 DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,skype
 DOMAIN-SUFFIX,skype.com
@@ -495,7 +458,6 @@ DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,sway-cdn.com
 DOMAIN-SUFFIX,sway-extensions.com
 DOMAIN-SUFFIX,sway.com
-DOMAIN-SUFFIX,syncshop.cn
 DOMAIN-SUFFIX,sysinternals.com
 DOMAIN-SUFFIX,tailwindtraders.com
 DOMAIN-SUFFIX,techhub.ms
@@ -536,10 +498,8 @@ DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,windows.nl
 DOMAIN-SUFFIX,windows8.hk
-DOMAIN-SUFFIX,windowsazure.cn
 DOMAIN-SUFFIX,windowsazure.com
 DOMAIN-SUFFIX,windowscommunity.net
-DOMAIN-SUFFIX,windowslive.cn
 DOMAIN-SUFFIX,windowsmarketplace.com
 DOMAIN-SUFFIX,windowsphone-int.com
 DOMAIN-SUFFIX,windowsphone.com
@@ -547,7 +507,6 @@ DOMAIN-SUFFIX,windowssearch.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,winhec.com
 DOMAIN-SUFFIX,winhec.net
-DOMAIN-SUFFIX,winmp.cn
 DOMAIN-SUFFIX,wlxrs.com
 DOMAIN-SUFFIX,working-bing-int.com
 DOMAIN-SUFFIX,wunderlist.com
@@ -563,7 +522,6 @@ DOMAIN-SUFFIX,xbox360.org
 DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,xboxgamepass.com
 DOMAIN-SUFFIX,xboxgamestudios.com
-DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxone.co
 DOMAIN-SUFFIX,xboxone.com
