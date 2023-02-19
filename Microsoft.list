@@ -1,12 +1,17 @@
 # NAME: Microsoft
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:10:20
+# UPDATED: 2023-02-17 02:08:04
+# DOMAIN: 2
 # DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 575
+# DOMAIN-SUFFIX: 657
 # PROCESS-NAME: 2
-# TOTAL: 581
-DOMAIN-SUFFIX,1drv.ms
+# TOTAL: 665
+DOMAIN,github-cloud.s3.amazonaws.com
+DOMAIN,vsmarketplacebadge.apphb.com
+DOMAIN-SUFFIX,21vbc.com
+DOMAIN-SUFFIX,21vbluecloud.com
+DOMAIN-SUFFIX,21vbluecloud.net
 DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,a1158.g.akamai.net
 DOMAIN-SUFFIX,a122.dscg3.akamai.net
@@ -15,6 +20,7 @@ DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
 DOMAIN-SUFFIX,adaptivecards.io
+DOMAIN-SUFFIX,aggresmart.com
 DOMAIN-SUFFIX,aicscience.com
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,akadns.net
@@ -30,6 +36,8 @@ DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,assets-yammer.com
 DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,azure-apim.net
+DOMAIN-SUFFIX,azure-devices-int.net
+DOMAIN-SUFFIX,azure-devices.net
 DOMAIN-SUFFIX,azure-dns.com
 DOMAIN-SUFFIX,azure-dns.info
 DOMAIN-SUFFIX,azure-dns.net
@@ -40,6 +48,7 @@ DOMAIN-SUFFIX,azure-test.net
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azurecomcdn.net
+DOMAIN-SUFFIX,azurecomm.net
 DOMAIN-SUFFIX,azurecontainer.io
 DOMAIN-SUFFIX,azurecosmos.net
 DOMAIN-SUFFIX,azurecosmosdb.com
@@ -79,7 +88,6 @@ DOMAIN-SUFFIX,binb.com
 DOMAIN-SUFFIX,binf.com
 DOMAIN-SUFFIX,bing
 DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bing123.com
 DOMAIN-SUFFIX,bing135.com
@@ -100,7 +108,10 @@ DOMAIN-SUFFIX,bingtoolbar.com
 DOMAIN-SUFFIX,bingtranslator.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
+DOMAIN-SUFFIX,biying.com
 DOMAIN-SUFFIX,blazor.net
+DOMAIN-SUFFIX,blueaggrestore.com
+DOMAIN-SUFFIX,bluecloudprod.com
 DOMAIN-SUFFIX,bluehatil.com
 DOMAIN-SUFFIX,bluehatnights.com
 DOMAIN-SUFFIX,boswp.com
@@ -130,12 +141,14 @@ DOMAIN-SUFFIX,devopsms.com
 DOMAIN-SUFFIX,dictate.ms
 DOMAIN-SUFFIX,discoverbing.com
 DOMAIN-SUFFIX,docs.com
+DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,dot.net
 DOMAIN-SUFFIX,dwh5.com
 DOMAIN-SUFFIX,dynamics.com
 DOMAIN-SUFFIX,e-msedge.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,efproject.net
+DOMAIN-SUFFIX,elderscrolls.com
 DOMAIN-SUFFIX,engkoo.com
 DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
 DOMAIN-SUFFIX,exp-tas.com
@@ -204,9 +217,12 @@ DOMAIN-SUFFIX,lync.com
 DOMAIN-SUFFIX,m12.vc
 DOMAIN-SUFFIX,makecode.org
 DOMAIN-SUFFIX,managedmeetingrooms.com
+DOMAIN-SUFFIX,management-azure-devices-int.net
+DOMAIN-SUFFIX,management-azure-devices.net
 DOMAIN-SUFFIX,mapblast.com
 DOMAIN-SUFFIX,mappoint.com
 DOMAIN-SUFFIX,masalladeloslimites.com
+DOMAIN-SUFFIX,mcchcdn.com
 DOMAIN-SUFFIX,meetfasttrack.com
 DOMAIN-SUFFIX,meetyourdevices.com
 DOMAIN-SUFFIX,mepn.com
@@ -335,6 +351,7 @@ DOMAIN-SUFFIX,msappproxy.net
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msauthimages.net
 DOMAIN-SUFFIX,mschallenge2018.com
+DOMAIN-SUFFIX,mschcdn.com
 DOMAIN-SUFFIX,msdn.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
@@ -354,6 +371,7 @@ DOMAIN-SUFFIX,msinnovationchallenge.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msn.com.nsatc.net
 DOMAIN-SUFFIX,msn.com.tw
+DOMAIN-SUFFIX,msn.net
 DOMAIN-SUFFIX,msnewskids.com
 DOMAIN-SUFFIX,msnewskids.net
 DOMAIN-SUFFIX,msnewskids.org
@@ -392,11 +410,6 @@ DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,officeppe.net
 DOMAIN-SUFFIX,omniroot.com
 DOMAIN-SUFFIX,onecollector.cloudapp.aria
-DOMAIN-SUFFIX,onedrive.co
-DOMAIN-SUFFIX,onedrive.co.uk
-DOMAIN-SUFFIX,onedrive.eu
-DOMAIN-SUFFIX,onedrive.net
-DOMAIN-SUFFIX,onedrive.org
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,onestore.ms
@@ -486,6 +499,7 @@ DOMAIN-SUFFIX,visualstudio.eu
 DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vsallin.net
 DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
@@ -533,11 +547,18 @@ DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.co
+DOMAIN-SUFFIX,onedrive.co.uk
 DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.eu
+DOMAIN-SUFFIX,onedrive.net
+DOMAIN-SUFFIX,onedrive.org
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
