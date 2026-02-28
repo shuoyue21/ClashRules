@@ -424,7 +424,7 @@ rule-providers:
 rules:
   - "RULE-SET,LocalAreaNetwork,全球直连"
   - "RULE-SET,UnBan,全球直连"
-  - "RULE-SET,BanAD,REJECTECT"
+  - "RULE-SET,BanAD,REJECT"
   - "RULE-SET,BanProgramAD,REJECT"
   - "RULE-SET,GoogleFCM,谷歌FCM"
   - "RULE-SET,GoogleCN,全球直连"
