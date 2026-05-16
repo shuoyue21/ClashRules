@@ -39,7 +39,7 @@ proxy-groups:
     type: select
     include-all: true
     filter: (?i)美|US|United States|日本|沪日|深日|JP|Japan|新加坡|坡|狮城|SG|Singapore
-  - name: Emby/Download
+  - name: Emby-Download
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Emby.png
     type: select
     include-all: true
